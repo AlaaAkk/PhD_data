@@ -1,0 +1,38 @@
+# 
+# This is the geometry file that corresponds to the current relaxation step.
+# If you do not want this file to be written, set the "write_restart_geometry" flag to .false.
+#  aims_uuid : BD5626BA-14E5-4259-A2FC-F5156197A2DC                                
+# 
+atom      -4.16618462     17.44746899     21.63730814 C
+atom      -1.92391529     12.79431313     21.64322830 C
+atom      -2.82517314     16.93892980     21.64040226 C
+atom      -3.26492843     13.30285031     21.64037907 C
+atom      -3.57654961     14.63375224     21.63929624 C
+atom      -2.51355180     15.60802818     21.64129990 C
+atom      -4.91984851     15.12783375     21.63617038 C
+atom      -1.17025173     15.11394953     21.64411363 C
+atom      -5.19299662     16.44947331     21.63522824 C
+atom      -0.89710476     13.79231023     21.64505424 C
+atom      -1.64514119     11.43912618     21.64401079 C
+atom      -4.44494820     18.80265776     21.63636586 C
+atom      -5.76074028     19.33367661     21.63282948 C
+atom      -0.32934271     10.90811694     21.64619062 C
+atom      -3.45897938     19.82243906     21.63875905 C
+atom      -2.63110403     10.41933851     21.64261039 C
+atom      -1.85981241     17.83226477     21.64229641 F
+atom      -4.23028798     12.40951384     21.63860204 F
+atom      -0.16231497     15.96136118     21.64583351 F
+atom      -5.92778525     14.28042142     21.63412455 F
+atom       0.36472072     13.40927548     21.64775174 F
+atom      -6.45482075     16.83250858     21.63236698 F
+atom       0.69815470     10.38894496     21.64780744 N
+atom      -6.78823776     19.85284185     21.62973875 N
+atom      -3.35737097      9.52604070     21.64147366 N
+atom      -2.73271977     20.71574245     21.64043292 N
+# 
+# What follows is the current estimated Hessian matrix constructed by the BFGS algorithm.
+# This is NOT the true Hessian matrix of the system.
+# If you do not want this information here, switch it off using the "hessian_to_restart_geometry" keyword.
+# 
+trust_radius             0.2000000030
+hessian_file
