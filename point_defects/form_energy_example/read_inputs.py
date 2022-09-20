@@ -1,4 +1,5 @@
 # Libraries
+import os
 import numpy as np
 from numpy import array, reshape, zeros, append, arange, ones
 
@@ -6,6 +7,7 @@ from numpy import array, reshape, zeros, append, arange, ones
 Pi = np.pi
 cmhz = 29979245800.0 * 2 * Pi  # cm^-1 to Hz
 
+path = os.getcwd()
 # Spliting function
 def split_line(lines):
     """Split input line"""
@@ -14,10 +16,11 @@ def split_line(lines):
     return line_vals
 
 
+
 # reading total energies in aims
 def read_energy(filename):
     energy = 0
-    with open(filename) as out:
+    with open(path+str('/inputs/')+str(filename)) as out:
 
         for line in out:
             if (
@@ -33,7 +36,7 @@ def read_energy(filename):
 # reading total energies in aims
 def read_omega(filename):
     """Reads frequencies in cm-1 and returns them in hz"""
-    ftemp = open(filename)
+    ftemp = open(path+str('/inputs/')+str(filename))
     fw = np.array([float(line.split()[0]) for line in ftemp]) * cmhz
     ftemp.close()
     return fw
