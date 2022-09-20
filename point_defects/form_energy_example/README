@@ -1,0 +1,13 @@
+The main file:
+
+python3 main.py MX2 Ti Tf Tstep pi pf pstep
+example: python3 main.py WS2 100 1000 100 1e-7 1 1e-2
+
+T is in Kelvin and p is in atm
+
+1. reads all energy and phonon modes inputs.
+2. Calculates Chemical Potential boundaries and Formation energy at 0K .
+3. Calculates Chemical Potential and Gibss free energy as function of Temperature and Pressure.
+4. Plots formation energy 0k as function of chemical potential.
+5. Plots formation energy as function of T with fixed p = pi.
+6. Plots formation energy as function of p with fixed T = pi.
