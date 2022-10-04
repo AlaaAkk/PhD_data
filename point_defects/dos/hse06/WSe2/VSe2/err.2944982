@@ -1,0 +1,37 @@
+Starting MPS on ravg1016
+Starting MPS on ravg1015
+Starting MPS on ravg1181
+Starting MPS on ravg1014
+ *** trusted_descent: Numerical inconsistency of forces and energy above energy_tolerance.
+Abort(806969871) on node 144 (rank 144 in comm 0): Fatal error in PMPI_Finalize: Other MPI error, error stack:
+PMPI_Finalize(216)...............: MPI_Finalize failed
+PMPI_Finalize(159)...............: 
+MPID_Finalize(1335)..............: 
+MPIDI_OFI_mpi_finalize_hook(2258): OFI domain close failed (ofi_init.c:2258:MPIDI_OFI_mpi_finalize_hook:Device or resource busy)
+Abort(806969871) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Finalize: Other MPI error, error stack:
+PMPI_Finalize(216)...............: MPI_Finalize failed
+PMPI_Finalize(159)...............: 
+MPID_Finalize(1335)..............: 
+MPIDI_OFI_mpi_finalize_hook(2258): OFI domain close failed (ofi_init.c:2258:MPIDI_OFI_mpi_finalize_hook:Device or resource busy)
+slurmstepd: error: *** STEP 2944982.0 ON ravg1014 CANCELLED AT 2022-09-20T01:15:12 ***
+Abort(806969871) on node 72 (rank 72 in comm 0): Fatal error in PMPI_Finalize: Other MPI error, error stack:
+PMPI_Finalize(216)...............: MPI_Finalize failed
+PMPI_Finalize(159)...............: 
+MPID_Finalize(1335)..............: 
+MPIDI_OFI_mpi_finalize_hook(2258): OFI domain close failed (ofi_init.c:2258:MPIDI_OFI_mpi_finalize_hook:Device or resource busy)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: ravg1016: task 193: Killed
+srun: launch/slurm: _step_signal: Terminating StepId=2944982.0
+srun: error: ravg1015: task 128: Killed
+srun: error: ravg1014: task 13: Killed
+srun: error: ravg1181: task 259: Killed
+srun: error: ravg1016: tasks 145-192,194-215: Killed
+srun: error: ravg1181: tasks 216-219,221-258,260-287: Killed
+srun: error: ravg1014: task 0: Exited with exit code 1
+srun: error: ravg1014: tasks 2-12,14-71: Killed
+srun: error: ravg1015: task 72: Exited with exit code 1
+srun: error: ravg1015: tasks 73-127,129-140,142-143: Killed
+srun: error: ravg1014: task 1: Killed
+srun: error: ravg1181: task 220: Killed
+srun: error: ravg1016: task 144: Exited with exit code 1
+srun: error: ravg1015: task 141: Killed

@@ -1,0 +1,447 @@
+Starting MPS on ravg1064
+Starting MPS on ravg1063
+Starting MPS on ravg1090
+ *** Proc    0 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+ *** Proc  144 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 144 (rank 144 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 144
+ *** Proc  145 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 145 (rank 145 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 145
+ *** Proc  146 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 146 (rank 146 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 146
+ *** Proc  147 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 147 (rank 147 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 147
+ *** Proc  149 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 149 (rank 149 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 149
+ *** Proc   72 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 72 (rank 72 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 72
+ *** Proc  150 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 150 (rank 150 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 150
+ *** Proc   73 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 73 (rank 73 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 73
+ *** Proc  151 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 151 (rank 151 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 151
+ *** Proc   74 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 74 (rank 74 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 74
+ *** Proc  152 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 152 (rank 152 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 152
+ *** Proc   75 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 75 (rank 75 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 75
+ *** Proc  153 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 153 (rank 153 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 153
+ *** Proc   76 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 76 (rank 76 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 76
+Abort(0) on node 0 (rank 0 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 0
+ *** Proc   77 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 77 (rank 77 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 77
+ *** Proc  154 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 154 (rank 154 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 154
+ *** Proc   78 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 78 (rank 78 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 78
+ *** Proc   79 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 79 (rank 79 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 79
+ *** Proc    2 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 2 (rank 2 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 2
+ *** Proc  156 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 156 (rank 156 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 156
+ *** Proc   80 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 80 (rank 80 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 80
+ *** Proc    4 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 4 (rank 4 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 4
+ *** Proc   81 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 81 (rank 81 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 81
+ *** Proc    5 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 5 (rank 5 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 5
+ *** Proc  159 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 159 (rank 159 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 159
+ *** Proc   82 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 82 (rank 82 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 82
+ *** Proc  160 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 160 (rank 160 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 160
+ *** Proc    9 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 9 (rank 9 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 9
+ *** Proc  161 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 161 (rank 161 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 161
+ *** Proc   83 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 83 (rank 83 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 83
+ *** Proc   84 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 84 (rank 84 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 84
+ *** Proc   11 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 11 (rank 11 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 11
+ *** Proc  162 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 162 (rank 162 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 162
+ *** Proc   85 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 85 (rank 85 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 85
+ *** Proc  163 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 163 (rank 163 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 163
+ *** Proc   13 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 13 (rank 13 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 13
+ *** Proc   86 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 86 (rank 86 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 86
+ *** Proc  164 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 164 (rank 164 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 164
+ *** Proc  165 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 165 (rank 165 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 165
+ *** Proc   87 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 87 (rank 87 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 87
+ *** Proc   16 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 16 (rank 16 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 16
+ *** Proc  166 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 166 (rank 166 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 166
+ *** Proc   88 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 88 (rank 88 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 88
+ *** Proc   17 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 17 (rank 17 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 17
+ *** Proc  167 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 167 (rank 167 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 167
+ *** Proc   89 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 89 (rank 89 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 89
+ *** Proc   18 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 18 (rank 18 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 18
+ *** Proc  168 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 168 (rank 168 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 168
+ *** Proc   90 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 90 (rank 90 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 90
+ *** Proc   20 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 20 (rank 20 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 20
+ *** Proc  169 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 169 (rank 169 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 169
+ *** Proc   91 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 91 (rank 91 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 91
+ *** Proc   21 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 21 (rank 21 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 21
+ *** Proc  170 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 170 (rank 170 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 170
+ *** Proc   92 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 92 (rank 92 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 92
+ *** Proc   22 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 22 (rank 22 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 22
+ *** Proc   93 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 93 (rank 93 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 93
+ *** Proc  171 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 171 (rank 171 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 171
+ *** Proc   23 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 23 (rank 23 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 23
+ *** Proc   94 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 94 (rank 94 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 94
+ *** Proc  172 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 172 (rank 172 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 172
+ *** Proc   95 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 95 (rank 95 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 95
+ *** Proc  173 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 173 (rank 173 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 173
+ *** Proc   27 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 27 (rank 27 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 27
+ *** Proc   96 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 96 (rank 96 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 96
+ *** Proc  174 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 174 (rank 174 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 174
+ *** Proc   97 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 97 (rank 97 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 97
+ *** Proc   31 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 31 (rank 31 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 31
+ *** Proc  175 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 175 (rank 175 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 175
+ *** Proc   98 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 98 (rank 98 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 98
+ *** Proc   32 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 32 (rank 32 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 32
+ *** Proc  176 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 176 (rank 176 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 176
+ *** Proc   99 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 99 (rank 99 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 99
+ *** Proc   33 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 33 (rank 33 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 33
+ *** Proc  177 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 177 (rank 177 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 177
+ *** Proc  100 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 100 (rank 100 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 100
+ *** Proc   34 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 34 (rank 34 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 34
+ *** Proc  178 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 178 (rank 178 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 178
+ *** Proc  101 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 101 (rank 101 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 101
+ *** Proc   35 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 35 (rank 35 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 35
+ *** Proc  179 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 179 (rank 179 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 179
+ *** Proc  102 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 102 (rank 102 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 102
+ *** Proc   36 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 36 (rank 36 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 36
+ *** Proc  180 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 180 (rank 180 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 180
+ *** Proc  103 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 103 (rank 103 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 103
+ *** Proc   38 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 38 (rank 38 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 38
+ *** Proc  181 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 181 (rank 181 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 181
+ *** Proc   39 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 39 (rank 39 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 39
+ *** Proc  104 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 104 (rank 104 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 104
+ *** Proc  182 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 182 (rank 182 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 182
+ *** Proc   40 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 40 (rank 40 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 40
+ *** Proc  105 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 105 (rank 105 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 105
+ *** Proc   41 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 41 (rank 41 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 41
+ *** Proc  183 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 183 (rank 183 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 183
+ *** Proc  106 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 106 (rank 106 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 106
+ *** Proc  184 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 184 (rank 184 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 184
+ *** Proc  107 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 107 (rank 107 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 107
+ *** Proc   45 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 45 (rank 45 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 45
+ *** Proc  185 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 185 (rank 185 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 185
+ *** Proc  108 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 108 (rank 108 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 108
+ *** Proc  109 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 109 (rank 109 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 109
+ *** Proc  188 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 188 (rank 188 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 188
+ *** Proc  110 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 110 (rank 110 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 110
+ *** Proc  189 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 189 (rank 189 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 189
+ *** Proc  111 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 111 (rank 111 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 111
+ *** Proc   47 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 47 (rank 47 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 47
+ *** Proc  191 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 191 (rank 191 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 191
+ *** Proc  112 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 112 (rank 112 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 112
+ *** Proc  113 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 113 (rank 113 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 113
+ *** Proc  192 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 192 (rank 192 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 192
+ *** Proc   52 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 52 (rank 52 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 52
+ *** Proc  114 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 114 (rank 114 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 114
+ *** Proc   53 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 53 (rank 53 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 53
+ *** Proc  115 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 115 (rank 115 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 115
+ *** Proc  194 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 194 (rank 194 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 194
+ *** Proc   54 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 54 (rank 54 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 54
+ *** Proc  116 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 116 (rank 116 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 116
+ *** Proc  195 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 195 (rank 195 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 195
+ *** Proc  117 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 117 (rank 117 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 117
+ *** Proc   56 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 56 (rank 56 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 56
+ *** Proc  196 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 196 (rank 196 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 196
+ *** Proc  118 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 118 (rank 118 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 118
+ *** Proc   57 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 57 (rank 57 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 57
+ *** Proc  197 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 197 (rank 197 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 197
+ *** Proc  119 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 119 (rank 119 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 119
+ *** Proc   59 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 59 (rank 59 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 59
+ *** Proc  198 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 198 (rank 198 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 198
+ *** Proc  120 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 120 (rank 120 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 120
+ *** Proc  199 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 199 (rank 199 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 199
+ *** Proc  121 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 121 (rank 121 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 121
+ *** Proc   63 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 63 (rank 63 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 63
+ *** Proc  200 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 200 (rank 200 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 200
+ *** Proc  122 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 122 (rank 122 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 122
+ *** Proc   64 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 64 (rank 64 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 64
+ *** Proc  201 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 201 (rank 201 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 201
+ *** Proc  123 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 123 (rank 123 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 123
+ *** Proc  203 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 203 (rank 203 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 203
+ *** Proc  124 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 124 (rank 124 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 124
+ *** Proc   67 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 67 (rank 67 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 67
+ *** Proc  125 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 125 (rank 125 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 125
+ *** Proc   68 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 68 (rank 68 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 68
+ *** Proc  205 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 205 (rank 205 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 205
+ *** Proc  126 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 126 (rank 126 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 126
+ *** Proc  206 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 206 (rank 206 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 206
+ *** Proc   69 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 69 (rank 69 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 69
+ *** Proc  127 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 127 (rank 127 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 127
+ *** Proc  207 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 207 (rank 207 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 207
+ *** Proc  128 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 128 (rank 128 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 128
+ *** Proc   71 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 71 (rank 71 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 71
+ *** Proc  129 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 129 (rank 129 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 129
+ *** Proc    1 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 1 (rank 1 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 1
+ *** Proc  130 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 130 (rank 130 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 130
+ *** Proc  209 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 209 (rank 209 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 209
+ *** Proc    3 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 3 (rank 3 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 3
+ *** Proc  131 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 131 (rank 131 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 131
+ *** Proc  210 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 210 (rank 210 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 210
+ *** Proc    6 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 6 (rank 6 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 6
+ *** Proc  132 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 132 (rank 132 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 132
+ *** Proc  211 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 211 (rank 211 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 211
+ *** Proc    7 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 7 (rank 7 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 7
+ *** Proc  133 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 133 (rank 133 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 133
+ *** Proc    8 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 8 (rank 8 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 8
+ *** Proc  212 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 212 (rank 212 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 212
+ *** Proc  134 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 134 (rank 134 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 134
+ *** Proc   10 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 10 (rank 10 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 10
+ *** Proc  213 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 213 (rank 213 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 213
+ *** Proc   12 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 12 (rank 12 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 12
+ *** Proc  135 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 135 (rank 135 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 135
+ *** Proc   14 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 14 (rank 14 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 14
+ *** Proc  214 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 214 (rank 214 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 214
+ *** Proc  136 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 136 (rank 136 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 136
+ *** Proc   15 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 15 (rank 15 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 15
+ *** Proc  215 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 215 (rank 215 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 215
+ *** Proc   19 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 19 (rank 19 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 19
+ *** Proc  148 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 148 (rank 148 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 148
+ *** Proc   24 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 24 (rank 24 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 24
+ *** Proc  155 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 155 (rank 155 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 155
+ *** Proc  157 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 157 (rank 157 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 157
+ *** Proc   25 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 25 (rank 25 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 25
+ *** Proc  158 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 158 (rank 158 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 158
+ *** Proc   26 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 26 (rank 26 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 26
+ *** Proc  186 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 186 (rank 186 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 186
+ *** Proc  187 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 187 (rank 187 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 187
+ *** Proc   28 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 28 (rank 28 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 28
+ *** Proc  190 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 190 (rank 190 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 190
+ *** Proc   29 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 29 (rank 29 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 29
+ *** Proc  193 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 193 (rank 193 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 193
+ *** Proc   30 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 30 (rank 30 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 30
+ *** Proc  202 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 202 (rank 202 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 202
+ *** Proc  204 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 204 (rank 204 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 204
+ *** Proc   37 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 37 (rank 37 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 37
+ *** Proc  208 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 208 (rank 208 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 208
+ *** Proc   42 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 42 (rank 42 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 42
+ *** Proc   43 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 43 (rank 43 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 43
+ *** Proc   44 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 44 (rank 44 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 44
+ *** Proc   46 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 46 (rank 46 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 46
+ *** Proc   48 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 48 (rank 48 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 48
+ *** Proc   49 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 49 (rank 49 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 49
+ *** Proc   50 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 50 (rank 50 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 50
+ *** Proc   51 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 51 (rank 51 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 51
+ *** Proc  137 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 137 (rank 137 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 137
+ *** Proc  138 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 138 (rank 138 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 138
+ *** Proc   55 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 55 (rank 55 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 55
+ *** Proc  139 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 139 (rank 139 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 139
+ *** Proc  140 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 140 (rank 140 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 140
+ *** Proc  141 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 141 (rank 141 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 141
+ *** Proc   58 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 58 (rank 58 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 58
+ *** Proc  142 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 142 (rank 142 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 142
+ *** Proc  143 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 143 (rank 143 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 143
+ *** Proc   60 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 60 (rank 60 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 60
+ *** Proc   61 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 61 (rank 61 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 61
+ *** Proc   62 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 62 (rank 62 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 62
+ *** Proc   65 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 65 (rank 65 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 65
+ *** Proc   66 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 66 (rank 66 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 66
+ *** Proc   70 in (unknown): CDM Hamiltonian has 1 negative eigenvalues
+Abort(0) on node 70 (rank 70 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 70
+slurmstepd: error: *** STEP 2905875.0 ON ravg1063 CANCELLED AT 2022-09-13T13:08:04 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: ravg1090: task 167: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=2905875.0
+srun: error: ravg1064: task 84: Exited with exit code 1
+srun: error: ravg1063: task 0: Exited with exit code 1
+srun: error: ravg1064: tasks 72-83,85-117,119-143: Exited with exit code 1
+srun: error: ravg1090: tasks 144-155,157-166,168-215: Exited with exit code 1
+srun: error: ravg1063: tasks 1-16,18-71: Exited with exit code 1
+srun: error: ravg1090: task 156: Exited with exit code 1
+srun: error: ravg1064: task 118: Exited with exit code 1
+srun: error: ravg1063: task 17: Exited with exit code 1

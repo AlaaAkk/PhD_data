@@ -1,0 +1,28 @@
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: alaa(30902)
+Job name:  Alaa
+Node list: ravg[1118-1120]
+Job start: Fri Sep 16 14:00:54 CEST 2022
+Job end:   Fri Sep 16 16:01:15 CEST 2022
+Work dir:  /ptmp/alaa/WSe2/hse06/VSe2/./
+Command:   /raven/ptmp/alaa/WSe2/hse06/VSe2/sub.sh
+  
+  
+  
+==========================================================================================
+Information on jobsteps (Note: MaxRSS/AveRSS is the maximum/average over all 
+tasks of the per-task memory high-water marks; cf. "man sacct"): 
+==========================================================================================
+  
+JobID           JobName NNodes NTasks  NCPUS       MaxRSS       AveRSS    Elapsed ExitCode 
+------------ ---------- ------ ------ ------ ------------ ------------ ---------- -------- 
+2932818            Alaa      3           432                             02:00:21      0:0 
+2932818.0        aims.x      3    216    432     3763.01M     2396.76M   02:00:27      1:0 
+  
+Maximum memory per node: 277.439 GB (defined as MaxRSS*Ntasks/NNodes)
+CPU utilization: 99.9 %
+     

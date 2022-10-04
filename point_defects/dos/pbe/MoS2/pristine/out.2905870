@@ -1,0 +1,28 @@
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: alaa(30902)
+Job name:  Alaa
+Node list: ravg[1063-1064,1090]
+Job start: Tue Sep 13 12:54:13 CEST 2022
+Job end:   Tue Sep 13 12:54:31 CEST 2022
+Work dir:  /ptmp/alaa/MoS2/pbe/pristine/./
+Command:   /raven/ptmp/alaa/MoS2/pbe/pristine/sub.sh
+  
+  
+  
+==========================================================================================
+Information on jobsteps (Note: MaxRSS/AveRSS is the maximum/average over all 
+tasks of the per-task memory high-water marks; cf. "man sacct"): 
+==========================================================================================
+  
+JobID           JobName NNodes NTasks  NCPUS       MaxRSS       AveRSS    Elapsed ExitCode 
+------------ ---------- ------ ------ ------ ------------ ------------ ---------- -------- 
+2905870            Alaa      3           432                             00:00:18      0:0 
+2905870.0        aims.x      3    216    432        0.42M        0.36M   00:00:15      0:0 
+  
+Maximum memory per node: 0.0306 GB (defined as MaxRSS*Ntasks/NNodes)
+CPU utilization: 33.3 %
+     

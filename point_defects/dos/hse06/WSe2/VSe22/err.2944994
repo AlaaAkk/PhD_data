@@ -1,0 +1,32 @@
+Starting MPS on ravg1031
+Starting MPS on ravg1098
+Starting MPS on ravg1097
+Starting MPS on ravg1099
+ *** trusted_descent: Numerical inconsistency of forces and energy above energy_tolerance.
+Abort(806969871) on node 216 (rank 216 in comm 0): Fatal error in PMPI_Finalize: Other MPI error, error stack:
+PMPI_Finalize(216)...............: MPI_Finalize failed
+PMPI_Finalize(159)...............: 
+MPID_Finalize(1335)..............: 
+MPIDI_OFI_mpi_finalize_hook(2258): OFI domain close failed (ofi_init.c:2258:MPIDI_OFI_mpi_finalize_hook:Device or resource busy)
+Abort(806969871) on node 144 (rank 144 in comm 0): Fatal error in PMPI_Finalize: Other MPI error, error stack:
+PMPI_Finalize(216)...............: MPI_Finalize failed
+PMPI_Finalize(159)...............: 
+MPID_Finalize(1335)..............: 
+MPIDI_OFI_mpi_finalize_hook(2258): OFI domain close failed (ofi_init.c:2258:MPIDI_OFI_mpi_finalize_hook:Device or resource busy)
+slurmstepd: error: *** STEP 2944994.0 ON ravg1031 CANCELLED AT 2022-09-20T01:17:19 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: ravg1099: task 273: Killed
+srun: launch/slurm: _step_signal: Terminating StepId=2944994.0
+srun: error: ravg1098: task 196: Killed
+srun: error: ravg1031: task 55: Killed
+srun: error: ravg1097: task 112: Killed
+srun: error: ravg1097: tasks 72-111,113-121,123-143: Killed
+srun: error: ravg1099: task 216: Exited with exit code 1
+srun: error: ravg1099: tasks 217-230,232-272,274-287: Killed
+srun: error: ravg1031: tasks 0-54,56-68,70-71: Killed
+srun: error: ravg1098: task 144: Exited with exit code 1
+srun: error: ravg1098: tasks 145-195,197-205,207-215: Killed
+srun: error: ravg1097: task 122: Killed
+srun: error: ravg1099: task 231: Killed
+srun: error: ravg1031: task 69: Killed
+srun: error: ravg1098: task 206: Killed
