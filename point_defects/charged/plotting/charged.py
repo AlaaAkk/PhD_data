@@ -52,7 +52,14 @@ def read_energy(filename):
 def Form_S(E,E0,mu_S):
    # chemical_potential(E_MoS2,mu_Mobcc,mu_S8)
     Ef=[]
-    fermi=np.arange(-6,-2)
+    fermi=np.arange(-7,-3)
+    for i in fermi:
+       Ef.append(1*(E-E0-i+mu_S))
+    return Ef
+def Form_S0(E,E0,mu_S):
+   # chemical_potential(E_MoS2,mu_Mobcc,mu_S8)
+    Ef=[]
+    fermi=np.zeros(4)
     for i in fermi:
        Ef.append(E-E0-i+mu_S)
     return Ef
@@ -60,21 +67,27 @@ def Form_S(E,E0,mu_S):
 EM=read_energy('Mo2.out')
 E_MX2=read_energy('primitive.out')
 mu_Mo=EM/2
-E0=read_energy('pristine.out')
-E1=read_energy('VS.out')
+E0=read_energy('pristine_charged.out')
+E1=read_energy('VS_charged.out')
+E00=read_energy('pristine.out')
+E10=read_energy('VS.out')
 ES8=read_energy('S8.out')
 mu_Si=(E_MX2-mu_Mo)/2
 mu_Sf=ES8/8
 EE=Form_S(E1,E0,mu_Sf)
 Ei=Form_S(E1,E0,mu_Si)
-fermi=np.arange(-6,-2)
+EE0=Form_S0(E10,E00,mu_Sf)
+Ei0=Form_S0(E10,E00,mu_Si)
+fermi=np.arange(-7,-3)
 #plt.plot(fermi,EE)
 fig = plt.figure()
 ax1 = fig.add_subplot(111)
 for axis in ["top", "bottom", "left", "right"]:
     ax1.spines[axis].set_linewidth(3.0)
-ax1.plot(fermi, EE, "b", label="rich environment")
-ax1.plot(fermi, Ei, "r", label="poor environment")
+ax1.plot(fermi, EE, "b", label="rich env. charged")
+ax1.plot(fermi, Ei, "r", label="poor env. charged")
+ax1.plot(fermi, EE0, "b", label="rich env. neutral")
+ax1.plot(fermi, Ei0, "r", label="poor env. neutral")
 ax1.set_xlabel('Fermi Energy eV')
 ax1.set_ylabel("Formation energies eV")
 ax1.legend(loc=4)
