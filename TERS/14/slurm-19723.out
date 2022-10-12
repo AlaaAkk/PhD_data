@@ -1,0 +1,103 @@
+Starting MPS on adag012
+Starting MPS on adag018
+Starting MPS on adag019
+Starting MPS on adag014
+Starting MPS on adag019
+Starting MPS on adag012
+Starting MPS on adag014
+Starting MPS on adag018
+Starting MPS on adag019
+Starting MPS on adag012
+Starting MPS on adag014
+Starting MPS on adag018
+Starting MPS on adag012
+Starting MPS on adag014
+Starting MPS on adag019
+Starting MPS on adag018
+Starting MPS on adag012
+Starting MPS on adag019
+Starting MPS on adag014
+Starting MPS on adag018
+Starting MPS on adag012
+Starting MPS on adag014
+Starting MPS on adag018
+Starting MPS on adag019
+Starting MPS on adag012
+Starting MPS on adag014
+Starting MPS on adag018
+Starting MPS on adag019
+Starting MPS on adag012
+Starting MPS on adag014
+Starting MPS on adag018
+Starting MPS on adag019
+Starting MPS on adag014
+Starting MPS on adag012
+Starting MPS on adag018
+Starting MPS on adag019
+Starting MPS on adag012
+Starting MPS on adag018
+Starting MPS on adag014
+Starting MPS on adag019
+Starting MPS on adag014
+Starting MPS on adag012
+Starting MPS on adag018
+Starting MPS on adag019
+Starting MPS on adag018
+Starting MPS on adag012
+Starting MPS on adag014
+Starting MPS on adag019
+Starting MPS on adag014
+Starting MPS on adag012
+Starting MPS on adag018
+Starting MPS on adag019
+Starting MPS on adag014
+Starting MPS on adag018
+Starting MPS on adag012
+Starting MPS on adag019
+Starting MPS on adag012
+Starting MPS on adag019
+Starting MPS on adag018
+Starting MPS on adag014
+Starting MPS on adag012
+Starting MPS on adag014
+Starting MPS on adag018
+Starting MPS on adag019
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** JOB 19723 ON adag012 CANCELLED AT 2022-10-07T11:58:20 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 19723.15 ON adag012 CANCELLED AT 2022-10-07T11:58:20 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+*** stack smashing detected ***: terminated
+*** stack smashing detected ***: terminated
+*** stack smashing detected ***: terminated
+*** stack smashing detected ***: terminated

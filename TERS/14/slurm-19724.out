@@ -1,0 +1,154 @@
+Starting MPS on adag020
+Starting MPS on adag021
+Starting MPS on adag022
+Starting MPS on adag023
+Starting MPS on adag020
+Starting MPS on adag021
+Starting MPS on adag023
+Starting MPS on adag022
+Starting MPS on adag020
+Starting MPS on adag023
+Starting MPS on adag021
+Starting MPS on adag022
+Starting MPS on adag023
+Starting MPS on adag022
+Starting MPS on adag021
+Starting MPS on adag020
+Starting MPS on adag023
+Starting MPS on adag021
+Starting MPS on adag022
+Starting MPS on adag020
+Starting MPS on adag020
+Starting MPS on adag023
+Starting MPS on adag021
+Starting MPS on adag022
+Starting MPS on adag020
+Starting MPS on adag022
+Starting MPS on adag023
+Starting MPS on adag021
+Starting MPS on adag020
+Starting MPS on adag023
+Starting MPS on adag022
+Starting MPS on adag021
+Starting MPS on adag023
+Starting MPS on adag020
+Starting MPS on adag022
+Starting MPS on adag021
+Starting MPS on adag023
+Starting MPS on adag020
+Starting MPS on adag022
+Starting MPS on adag021
+Starting MPS on adag020
+Starting MPS on adag023
+Starting MPS on adag021
+Starting MPS on adag022
+Starting MPS on adag020
+Starting MPS on adag023
+Starting MPS on adag021
+Starting MPS on adag022
+Starting MPS on adag021
+Starting MPS on adag023
+Starting MPS on adag020
+Starting MPS on adag022
+Starting MPS on adag023
+Starting MPS on adag020
+Starting MPS on adag022
+Starting MPS on adag021
+Starting MPS on adag020
+Starting MPS on adag021
+Starting MPS on adag023
+Starting MPS on adag022
+Starting MPS on adag023
+Starting MPS on adag020
+Starting MPS on adag022
+Starting MPS on adag021
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 19724.15 ON adag020 CANCELLED AT 2022-10-07T11:58:20 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 19724 ON adag020 CANCELLED AT 2022-10-07T11:58:20 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  00001464ABC9A8C0  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  000014DBCF25C8C0  Unknown               Unknown  Unknown
+aims.x             000000000164042C  Unknown               Unknown  Unknown
+aims.x             0000000000F97C5D  Unknown               Unknown  Unknown
+aims.x             0000000000F7B9B1  Unknown               Unknown  Unknown
+aims.x             0000000000A835A1  Unknown               Unknown  Unknown
+aims.x             000000000040F864  Unknown               Unknown  Unknown
+aims.x             000000000041192D  Unknown               Unknown  Unknown
+aims.x             000000000040F542  Unknown               Unknown  Unknown
+libc-2.31.so       000014DBCEB3B2BD  __libc_start_main     Unknown  Unknown
+aims.x             000000000040F45A  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  0000148CFA4B68C0  Unknown               Unknown  Unknown
+aims.x             000000000399F41C  __intel_avx_rep_m     Unknown  Unknown
+aims.x             0000000001640314  Unknown               Unknown  Unknown
+aims.x             0000000000F97C5D  Unknown               Unknown  Unknown
+aims.x             0000000000F7B9B1  Unknown               Unknown  Unknown
+aims.x             0000000000A835A1  Unknown               Unknown  Unknown
+aims.x             000000000040F864  Unknown               Unknown  Unknown
+aims.x             000000000041192D  Unknown               Unknown  Unknown
+aims.x             000000000040F542  Unknown               Unknown  Unknown
+libc-2.31.so       0000148CF9D952BD  __libc_start_main     Unknown  Unknown
+aims.x             000000000040F45A  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  0000154407CB58C0  Unknown               Unknown  Unknown
+aims.x             0000000001640441  Unknown               Unknown  Unknown
+aims.x             0000000000F97C5D  Unknown               Unknown  Unknown
+aims.x             0000000000F7B9B1  Unknown               Unknown  Unknown
+aims.x             0000000000A835A1  Unknown               Unknown  Unknown
+aims.x             000000000040F864  Unknown               Unknown  Unknown
+aims.x             000000000041192D  Unknown               Unknown  Unknown
+aims.x             000000000040F542  Unknown               Unknown  Unknown
+libc-2.31.so       00001544075942BD  __libc_start_main     Unknown  Unknown
+aims.x             000000000040F45A  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  000014DA9646A8C0  Unknown               Unknown  Unknown
+aims.x             0000000001640441  Unknown               Unknown  Unknown
+aims.x             0000000000F97C5D  Unknown               Unknown  Unknown
+aims.x             0000000000F7B9B1  Unknown               Unknown  Unknown
+aims.x             0000000000A835A1  Unknown               Unknown  Unknown
+aims.x             000000000040F864  Unknown               Unknown  Unknown
+aims.x             000000000041192D  Unknown               Unknown  Unknown
+aims.x             000000000040F542  Unknown               Unknown  Unknown
+libc-2.31.so       000014DA95D492BD  __libc_start_main     Unknown  Unknown
+aims.x             000000000040F45A  Unknown               Unknown  Unknown

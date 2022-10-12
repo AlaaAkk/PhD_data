@@ -1,0 +1,92 @@
+Starting MPS on adag068
+Starting MPS on adag069
+Starting MPS on adag072
+Starting MPS on adag070
+Starting MPS on adag072
+Starting MPS on adag070
+Starting MPS on adag068
+Starting MPS on adag069
+Starting MPS on adag070
+Starting MPS on adag072
+Starting MPS on adag069
+Starting MPS on adag068
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** JOB 19716 ON adag068 CANCELLED AT 2022-10-06T14:11:48 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 19716.2 ON adag068 CANCELLED AT 2022-10-06T14:11:48 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  00001512D107C8C0  Unknown               Unknown  Unknown
+aims.x             000000000163EF1F  Unknown               Unknown  Unknown
+aims.x             0000000000F8F366  Unknown               Unknown  Unknown
+aims.x             0000000000F7DEF2  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  00001486F23158C0  Unknown               Unknown  Unknown
+aims.x             000000000163EF1F  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  00001524633E18C0  Unknown               Unknown  Unknown
+aims.x             000000000163EF3D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  000014CC39F388C0  Unknown               Unknown  Unknown
+aims.x             000000000392738C  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  0000153BB5B4F8C0  Unknown               Unknown  Unknown
+aims.x             0000000001D5C1FD  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  00001519D526D8C0  Unknown               Unknown  Unknown
+aims.x             0000000003927940  Unknown               Unknown  Unknown
+aims.x             0000000001D5C19D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  000014567C35E8C0  Unknown               Unknown  Unknown
+aims.x             000000000392790E  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+aims.x             00000000038CFB1B  Unknown               Unknown  Unknown
+libpthread-2.31.s  000014CD338FC8C0  Unknown               Unknown  Unknown
+aims.x             000000000392790E  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+[adag070:23571:0:23571] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xa50)
+[adag070:23572:0:23572] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xa50)

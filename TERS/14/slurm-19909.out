@@ -1,0 +1,239 @@
+Starting MPS on adag009
+Starting MPS on adag012
+Starting MPS on adag013
+Starting MPS on adag011
+Starting MPS on adag013
+Starting MPS on adag009
+Starting MPS on adag012
+Starting MPS on adag011
+Starting MPS on adag011
+Starting MPS on adag012
+Starting MPS on adag009
+Starting MPS on adag013
+Starting MPS on adag012
+Starting MPS on adag009
+Starting MPS on adag013
+Starting MPS on adag011
+Starting MPS on adag011
+Starting MPS on adag012
+Starting MPS on adag009
+Starting MPS on adag013
+Starting MPS on adag009
+Starting MPS on adag012
+Starting MPS on adag013
+Starting MPS on adag011
+Starting MPS on adag009
+Starting MPS on adag013
+Starting MPS on adag012
+Starting MPS on adag011
+Starting MPS on adag009
+Starting MPS on adag012
+Starting MPS on adag013
+Starting MPS on adag011
+Starting MPS on adag009
+Starting MPS on adag013
+Starting MPS on adag012
+Starting MPS on adag011
+Starting MPS on adag012
+Starting MPS on adag009
+Starting MPS on adag013
+Starting MPS on adag011
+Starting MPS on adag012
+Starting MPS on adag009
+Starting MPS on adag011
+Starting MPS on adag013
+Starting MPS on adag013
+Starting MPS on adag012
+Starting MPS on adag009
+Starting MPS on adag011
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+Starting MPS on adag009
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_pos_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+Starting MPS on adag012
+Starting MPS on adag013
+Starting MPS on adag011
+ *** Proc    8 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    9 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 9 (rank 9 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 9
+ *** Proc   10 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 10 (rank 10 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 10
+ *** Proc   11 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 11 (rank 11 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 11
+Abort(0) on node 8 (rank 8 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 8
+ *** Proc   12 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 12 (rank 12 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 12
+ *** Proc   13 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 13 (rank 13 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 13
+ *** Proc   14 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 14 (rank 14 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 14
+ *** Proc   15 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 15 (rank 15 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 15
+ *** Proc    0 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 0 (rank 0 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 0
+ *** Proc    1 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 1 (rank 1 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 1
+ *** Proc    2 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 2 (rank 2 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 2
+ *** Proc    4 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 4 (rank 4 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 4
+ *** Proc    3 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 3 (rank 3 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 3
+ *** Proc    5 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 5 (rank 5 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 5
+ *** Proc    6 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 6 (rank 6 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 6
+ *** Proc    7 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 7 (rank 7 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 7
+slurmstepd: error: *** STEP 19909.12 ON adag009 CANCELLED AT 2022-10-10T14:45:54 ***
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: error: adag013: tasks 12-15: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=19909.12
+srun: error: adag012: tasks 8-11: Exited with exit code 1
+srun: error: adag011: tasks 4-7: Killed
+srun: error: adag009: tasks 0-3: Killed
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+Starting MPS on adag009
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+slurmstepd: error: couldn't chdir to `/ada/ptmp/mpsd/alaa/Cluster_VS/14/C6H6_disp_neg_2.99997_1.303396_-7.614046': No such file or directory: going to /tmp instead
+Starting MPS on adag013
+Starting MPS on adag012
+Starting MPS on adag011
+ *** Proc    8 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 8 (rank 8 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 8
+ *** Proc    9 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 9 (rank 9 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 9
+ *** Proc   14 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 14 (rank 14 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 14
+ *** Proc   15 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 15 (rank 15 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 15
+ *** Proc   10 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 10 (rank 10 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 10
+ *** Proc   12 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 12 (rank 12 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 12
+ *** Proc   13 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 13 (rank 13 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 13
+ *** Proc   11 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 11 (rank 11 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 11
+ *** Proc    0 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    4 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 4 (rank 4 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 4
+Abort(0) on node 0 (rank 0 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 0
+ *** Proc    5 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 5 (rank 5 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 5
+ *** Proc    1 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    2 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 2 (rank 2 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 2
+ *** Proc    6 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 6 (rank 6 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 6
+ *** Proc    3 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 3 (rank 3 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 3
+Abort(0) on node 1 (rank 1 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 1
+ *** Proc    7 in parse_control: * Input file control.in not found.
+ 
+Abort(0) on node 7 (rank 7 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 7
+slurmstepd: error: *** STEP 19909.13 ON adag009 CANCELLED AT 2022-10-10T14:45:56 ***
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: error: adag011: tasks 4-7: Killed
+srun: launch/slurm: _step_signal: Terminating StepId=19909.13
+srun: error: adag009: tasks 0-3: Killed
+srun: error: adag012: tasks 8-11: Exited with exit code 1
+srun: error: adag013: tasks 12-15: Exited with exit code 1
+Aims calculation is complete for direction  pos_-3.00003_-4.696604_-7.614046
+
+Aims calculation is complete for direction  neg_-3.00003_-4.696604_-7.614046
+
+Aims calculation is complete for direction  pos_-3.00003_-2.696604_-7.614046
+
+Aims calculation isnt complete for direction neg_-3.00003_-2.696604_-7.614046
+
+Aims calculation is complete for direction  pos_-3.00003_-0.6966039999999998_-7.614046
+
+Aims calculation is complete for direction  neg_-3.00003_-0.6966039999999998_-7.614046
+
+Aims calculation is complete for direction  pos_-3.00003_1.303396_-7.614046
+
+Aims calculation is complete for direction  neg_-3.00003_1.303396_-7.614046
+
+Aims calculation is complete for direction  pos_-1.0000300000000002_-4.696604_-7.614046
+
+Aims calculation is complete for direction  neg_-1.0000300000000002_-4.696604_-7.614046
+
+Aims calculation is complete for direction  pos_-1.0000300000000002_-2.696604_-7.614046
+
+Aims calculation is complete for direction  neg_-1.0000300000000002_-2.696604_-7.614046
+
+Aims calculation is complete for direction  pos_-1.0000300000000002_-0.6966039999999998_-7.614046
+
+Aims calculation is complete for direction  neg_-1.0000300000000002_-0.6966039999999998_-7.614046
+
+Aims calculation is complete for direction  pos_-1.0000300000000002_1.303396_-7.614046
+
+Aims calculation is complete for direction  neg_-1.0000300000000002_1.303396_-7.614046
+
+Aims calculation is complete for direction  pos_0.9999699999999998_-4.696604_-7.614046
+
+Aims calculation isnt complete for direction neg_0.9999699999999998_-4.696604_-7.614046
+
